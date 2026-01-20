@@ -1,0 +1,17 @@
+filename = '[书籍体验增强][客户端]Scribble-2.0.0-beta1+mc1.21.11-fabric.jar'
+name = 'Scribble'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '2.0.0-beta1+mc1.21.11-fabric'
+
+[download]
+hash = 'db982826b5251275834742ce1e86bb0f804bc7fc330e463655762cef54f636f290bb6cf0e9d971fcdb2a968c7f55fb4c8d72fdbcc4c78ffe649719b987bcded5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yXAvIk0x/versions/UOTYcNE1/Scribble-2.0.0-beta1%2Bmc1.21.11-fabric.jar'
+
+[update.modrinth]
+mod-id = 'yXAvIk0x'
+version = 'UOTYcNE1'

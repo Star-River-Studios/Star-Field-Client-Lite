@@ -1,0 +1,13 @@
+filename = 'Mellow v2.2.1.zip'
+name = 'Mellow'
+side = 'client'
+
+[download]
+hash = '046DAF1B44E3A8DA0DE1F25C173F70CF31C167204744A9C9ED6A30B8052795C477B21998396ED2D0233615E79A00F3D2E19EDE88FD65DCFAF3B335873CADDE9A'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BUxf36AP/versions/qlkWjU3S/Mellow%20v2.2.1.zip'
+
+[update.modrinth]
+mod-id = 'BUxf36AP'
+version = 'qlkWjU3S'

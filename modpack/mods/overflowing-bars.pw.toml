@@ -1,0 +1,17 @@
+filename = '[叠加状态栏][客户端]OverflowingBars-v21.11.0-mc1.21.11-Fabric.jar'
+name = 'Overflowing Bars'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '21.11.0'
+
+[download]
+hash = 'b4534cbbb9df0923b875a3783463791bb5f43c885f6a33dfe53bd0dbe052b682f4972be3d7b0e2cebcf2870791813b906626ac596d90904abbaf1b67bccac0ec'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XD7XOrAF/versions/Wtc9Dvls/OverflowingBars-v21.11.0-mc1.21.11-Fabric.jar'
+
+[update.modrinth]
+mod-id = 'XD7XOrAF'
+version = 'Wtc9Dvls'

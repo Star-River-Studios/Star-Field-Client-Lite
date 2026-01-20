@@ -1,0 +1,17 @@
+filename = '[模组目录][客户端]modmenu-17.0.0-beta.2.jar'
+name = 'Mоd Mеnu'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '17.0.0-beta.2'
+
+[download]
+hash = '27cc0fd2c9426e8eba70f96b9d31e6dd756819cc44338b8948167e93fb6e22416d10d2e8c63f7c689c2aca2c27bdb6864d974b92e3f79b3027d23eee1bfbdb2e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mOgUt4GM/versions/JWQVh32x/modmenu-17.0.0-beta.2.jar'
+
+[update.modrinth]
+mod-id = 'mOgUt4GM'
+version = 'JWQVh32x'

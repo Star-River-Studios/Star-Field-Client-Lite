@@ -1,0 +1,17 @@
+filename = '[前置模组]PlayerAnimationLibFabric-1.1.5+mc.1.21.11.jar'
+name = 'Player Animation Library'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.5'
+
+[download]
+hash = '6c2581fb094c1ae59e6d17f785e3a9b191d5fe38b902e412dfe7c369aab1cbe0e2bf8e8f4a952032e383a67783b7c8e23adc5bfdb905d13eda858952230b8d25'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ha1mEyJS/versions/UWNewAKz/PlayerAnimationLibFabric-1.1.5%2Bmc.1.21.11.jar'
+
+[update.modrinth]
+mod-id = 'ha1mEyJS'
+version = 'UWNewAKz'

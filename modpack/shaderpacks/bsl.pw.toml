@@ -1,0 +1,13 @@
+filename = 'BSL_v10.1.zip'
+name = 'BSL Shaders'
+side = 'client'
+
+[download]
+hash = '6E16EE6FEB7A5175567C15EA884CF42D4E384EDD3CB42DEF44CDCC3ED5C83982F0051BED23B26C53502F600017ADBD827D3CC98E7230A6E89DEC90B213E3676D'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Q1vvjJYV/versions/3WGx0wKu/BSL_v10.1.zip'
+
+[update.modrinth]
+mod-id = 'Q1vvjJYV'
+version = '3WGx0wKu'

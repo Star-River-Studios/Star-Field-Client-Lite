@@ -1,0 +1,13 @@
+filename = 'Squareful方纹v26.0.5.zip'
+name = 'Squareful'
+side = 'client'
+
+[download]
+hash = '018FFE0F9988DEC32C6041E402AEB91F7E9E301BF966A5A3008CD921691EF5FF6B27425B10B7F03869755E6CD10517516608969BE845CB63EDACE6A8B0F6B10E'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rq4lDGdf/versions/8ZptoSaE/Squareful%E6%96%B9%E7%BA%B9v26.0.5.zip'
+
+[update.modrinth]
+mod-id = 'rq4lDGdf'
+version = '8ZptoSaE'

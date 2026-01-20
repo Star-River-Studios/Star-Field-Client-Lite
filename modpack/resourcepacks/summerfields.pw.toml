@@ -1,0 +1,9 @@
+filename = 'SummerFields_master_1.21.11.zip'
+name = 'SummerFields'
+side = 'client'
+
+[download]
+hash = 'AEA4A1C72ED2744A27D8ED76308A73FEEF3055751179C9A4823E29C046AD92B709F479CDB072656B083F581B68CBD09D0682A1447B47869895FF043B5C352BF4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://summerfields.info/download/1-20-2-1-21-11-mounts-of-mayhem/?wpdmdl=5304&refresh=694b2cc43fab01766534340'

@@ -1,0 +1,17 @@
+filename = '[NBT自动补全][客户端]NBTac-FABRIC-1.21.11-1.3.14.jar'
+name = 'NBT Autocomplete'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.14-fabric-1.21.11'
+
+[download]
+hash = '06067fc81e229ded877f90c1c75e7bbb758295eac16baad94c726453d39860c64be143e10b7b17b72b6a6ef40c1ab986134f87e54a81a0cb47a1913d4ac450bd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UR0ocuEt/versions/utAed06o/NBTac-FABRIC-1.21.11-1.3.14.jar'
+
+[update.modrinth]
+mod-id = 'UR0ocuEt'
+version = 'utAed06o'

@@ -1,0 +1,17 @@
+filename = '[旅行地图]journeymap-fabric-1.21.11-6.0.0-beta.54.jar'
+name = 'JourneyMap'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11', '1.21.11' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.21.11-6.0.0-beta.54+fabric'
+
+[download]
+hash = '9a9a4d68087124061efe0101825964256384fbe1803932a115305c063cc45d7a9db4a8fb73cb862b8cf1ab26b65e554d2ff70307e3d1f2211b3173bb3f07f255'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lfHFW1mp/versions/SaQABb8q/journeymap-fabric-1.21.11-6.0.0-beta.54.jar'
+
+[update.modrinth]
+mod-id = 'lfHFW1mp'
+version = 'SaQABb8q'
