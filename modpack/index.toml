@@ -6,7 +6,7 @@ hash = "50de0c770717008172529787a6a4d785bf42224a25f164d02a0e194c80964eea"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "1f5a6734bc065da63335914403649c4b624c6d34b3e5d515749a2d0c8a85e000"
+hash = "e739fe52935dbe39b497f3fe10d52cf4570499caa17720af4950f1fe3d291948"
 
 [[files]]
 file = "config/iris.properties"
@@ -263,6 +263,11 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "06e2ec2df21d4261fdfda94b1b7193b218e5f4efcba7965009d012f4e9f023cc"
+
+[[files]]
+file = "resourcepacks/multipixel.pw.toml"
+hash = "52033640251a9d1b66d4ea53989a23444620f7301e2751c9552ceae7a92b9097"
+metafile = true
 
 [[files]]
 file = "resourcepacks/squareful.pw.toml"

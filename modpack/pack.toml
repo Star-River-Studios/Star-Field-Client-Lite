@@ -1,12 +1,12 @@
 name = "Star-Field-Client_Lite"
 author = "ManyStars"
-version = "1.0.0.0-beta.1+26A1"
+version = "1.0.0.0-beta.1+26A2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "03089dff2f39c916277da4b0996172cd152c78a9ac6d9da45c19e393d81c0074"
+hash = "6827f583ccf0b23c96f022c01cf4ef11a5f59c3ec0f65c8296bbc237331ac006"
 
 [versions]
 fabric = "0.18.4"

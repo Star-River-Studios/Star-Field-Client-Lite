@@ -1,0 +1,12 @@
+filename = 'MultiPixel_Java_1.21.11_pre7.zip'
+name = 'MultiPixel Texture Pack - Java Edition'
+side = 'client'
+
+[download]
+hash = "EEBCD1CE6800E7E65720E24AFD161E33EA3CED87"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 7355562
+project-id = 1300912
